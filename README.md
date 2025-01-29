@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Codeforces Profile](https://img.shields.io/badge/Codeforces-Profile-blue)](https://codeforces.com/profile/muhammadali_se)
 <!--
 **muhammadali-se/muhammadali-se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
