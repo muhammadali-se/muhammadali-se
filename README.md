@@ -28,8 +28,6 @@ I'm a **self-taught programmer** from Bangladesh 🇧🇩 — currently focused 
 - 👨‍💻 **Codeforces**: [muhammadali_se](https://codeforces.com/profile/muhammadali_se)  
 - 🧮 **CodeChef**: [muhammadali_se](https://www.codechef.com/users/muhammadali_se)  
 
-![Codeforces Stats](https://cfstats.com/api/?handle=muhammadali_se&theme=dark)
-
 ---
 
 ### 📊 GitHub Stats
