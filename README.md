@@ -50,8 +50,8 @@ I'm a **self-taught programmer** from Bangladesh 🇧🇩 — currently focused 
 
 ### 📫 Connect With Me
 
-- 🔗 LinkedIn: [muhammadalidev](https://linkedin.com/in/muhammadali-se)  
-- 🐦 Twitter/X: [@muhammadalidx](https://twitter.com/SEmuhammadali)  
+- 🔗 LinkedIn: [muhammadali-se](https://linkedin.com/in/muhammadali-se)  
+- 🐦 Twitter/X: [@SEmuhammadali](https://twitter.com/SEmuhammadali)  
 - 📧 [muhammadalibd121@gmail.com](mailto:muhammadalibd121@gmail.com)
 
 ---
