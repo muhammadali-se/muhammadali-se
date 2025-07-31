@@ -28,8 +28,7 @@ I'm a **self-taught programmer** from Bangladesh 🇧🇩 — currently focused 
 - 👨‍💻 **Codeforces**: [muhammadali_se](https://codeforces.com/profile/muhammadali_se)  
 - 🧮 **CodeChef**: [muhammadali_se](https://www.codechef.com/users/muhammadali_se)  
 
-[![Codeforces Stats](https://cf-stats.vercel.app/api?username=muhammadali_se)](https://codeforces.com/profile/muhammadali_se)  
-[![CodeChef Stats](https://cp-leaderboard-api.vercel.app/codechef/muhammadali_se)](https://www.codechef.com/users/muhammadali_se)
+![Codeforces Stats](https://cfstats.com/api/?handle=muhammadali_se&theme=dark)
 
 ---
 
@@ -44,13 +43,13 @@ I'm a **self-taught programmer** from Bangladesh 🇧🇩 — currently focused 
 
 - **Frontend**: React.js, Tailwind CSS, JavaScript, HTML, CSS  
 - **Currently Learning**: Node.js, Express.js, MongoDB  
-- **Tools**: Git, GitHub, VS Code, GitHub Copilot
+- **Tools**: Git, GitHub, VS Code
 
 ---
 
 ### 📫 Connect With Me
 
-- 🔗 LinkedIn: [muhammadali-se](https://linkedin.com/in/muhammadali-se)  
+- 🔗 LinkedIn: [@muhammadali-se](https://linkedin.com/in/muhammadali-se)  
 - 🐦 Twitter/X: [@SEmuhammadali](https://twitter.com/SEmuhammadali)  
 - 📧 [muhammadalibd121@gmail.com](mailto:muhammadalibd121@gmail.com)
 
