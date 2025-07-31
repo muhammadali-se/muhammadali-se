@@ -1,4 +1,3 @@
-```md
 ### 👋 Hi, I'm Muhammad Ali!
 
 I'm a **self-taught programmer** from Bangladesh 🇧🇩 — currently focused on **front-end development**, and expanding into **back-end** to become a full-stack developer. I’m also a **competitive programmer**, passionate about solving problems, building real-world products, and constantly growing.
@@ -58,4 +57,3 @@ I'm a **self-taught programmer** from Bangladesh 🇧🇩 — currently focused 
 ---
 
 > “Learning to build. Building to grow.” 💡
-```
