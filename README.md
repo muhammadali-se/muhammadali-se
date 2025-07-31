@@ -35,8 +35,8 @@ I'm a **self-taught programmer** from Bangladesh 🇧🇩 — currently focused 
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadAli-16&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAli-16&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadali-se&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadali-se&layout=compact&theme=radical)
 
 ---
 
@@ -50,8 +50,8 @@ I'm a **self-taught programmer** from Bangladesh 🇧🇩 — currently focused 
 
 ### 📫 Connect With Me
 
-- 🔗 LinkedIn: [muhammadalidev](https://linkedin.com/in/muhammadalidev)  
-- 🐦 Twitter/X: [@muhammadalidx](https://twitter.com/muhammadalidx)  
+- 🔗 LinkedIn: [muhammadalidev](https://linkedin.com/in/muhammadali-se)  
+- 🐦 Twitter/X: [@muhammadalidx](https://twitter.com/SEmuhammadali)  
 - 📧 [muhammadalibd121@gmail.com](mailto:muhammadalibd121@gmail.com)
 
 ---
