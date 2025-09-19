@@ -25,8 +25,8 @@ I'm a **self-taught programmer** from Bangladesh 🇧🇩 — currently focused 
 
 ### 🧠 Competitive Programming
 
-- 👨‍💻 **Codeforces (1000+)**: [muhammadali_se](https://codeforces.com/profile/muhammadali_se)  
-- 🧮 **CodeChef (2- 1400+)**: [muhammadali_se](https://www.codechef.com/users/muhammadali_se)  
+- 👨‍💻 **Codeforces Pupil (1200+)**: [muhammadali_se](https://codeforces.com/profile/muhammadali_se)  
+- 🧮 **CodeChef 2 Star (1400+)**: [muhammadali_se](https://www.codechef.com/users/muhammadali_se)  
 
 ---
 
