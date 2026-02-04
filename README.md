@@ -2,7 +2,7 @@
 
 I'm a **17-year-old self-taught software engineer** from Bangladesh 🇧🇩, focused on building **scalable systems, production-grade frontends and AI-powered applications**. I work mainly with the **MERN stack**, love solving problems through **competitive programming**, and enjoy turning ideas into real-world products.  
 
-Currently, I'm exploring **Machine Learning and Deep Learning** to integrate intelligent systems into modern web platforms. My goal is to become a **technically excellent Engineer and Founder**, creating products that deliver real value and scale globally.  
+Currently, I'm exploring **Machine Learning and Deep Learning** to integrate intelligent systems into modern web platforms. My goal is to become a **Technically excellent Engineer and Founder**, creating products that deliver real value and scale globally.  
 
 ---
 
@@ -17,7 +17,7 @@ Currently, I'm exploring **Machine Learning and Deep Learning** to integrate int
 
 ## 🎯 2026 Goals  
 
-- Reach **Specialist (1400+) on Codeforces** and **3★ (1600+) on CodeChef**  
+- Reach **Specialist (1400+) on Codeforces** and **3★ (1600+) on CodeChef** by the first quarter of the year  
 - Build and publish **production-grade full-stack portfolio projects**  
 - Improve English fluency toward **C1 level**  
 - **Build in Public:** Launch and grow multiple **SaaS products** (starting with ReachlinkAI)  
